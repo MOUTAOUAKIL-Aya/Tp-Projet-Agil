@@ -1,4 +1,10 @@
-h1{
+
+body {
+    padding: 20px;
+    background-color: #1f0624;
+    color: #844343;
+  }
+  h1{
     color:aquamarine;
 }
 p{
@@ -9,3 +15,9 @@ spam{
     font-size: x-large;
     font-style: oblique;
 }
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+  }

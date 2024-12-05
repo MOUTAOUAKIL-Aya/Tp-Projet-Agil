@@ -5,6 +5,11 @@ body {
     color: #844343;
   }
   h1{
-    color:rgba(7, 137, 94, 0.271);
+    color:rgba(20, 220, 153, 0.781);
     text-align: center;
+}
+div{
+    color: black;
+    width: 200px;
+    height: 250px;
 }

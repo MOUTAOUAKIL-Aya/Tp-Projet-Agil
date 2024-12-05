@@ -5,19 +5,6 @@ body {
     color: #844343;
   }
   h1{
-    color:aquamarine;
-}
-p{
-    color: blueviolet;
-}
-spam{
-    color: crimson;
-    font-size: x-large;
-    font-style: oblique;
-}
-footer {
+    color:rgba(7, 137, 94, 0.271);
     text-align: center;
-    margin-top: 20px;
-    font-size: 14px;
-    color: #777;
-  }
+}
